@@ -3,6 +3,8 @@ Follow the https://www.youtube.com/watch?v=JjgqOZ2v5oU
 
 # setup
 
+https://www.redhat.com/sysadmin/run-containers-mac-podman
+
 ```shell
 brew install podman
 podman machine init --now
